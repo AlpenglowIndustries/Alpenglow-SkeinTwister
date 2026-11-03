@@ -1,0 +1,16 @@
+Board Information Report
+Filename     : C:\Users\Sundra\Documents\Altium\Projects\SkeinTwister RevE\ST01P01E.PcbDoc
+Date         : 3/18/2021
+Time         : 11:15:15 AM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 1800milsx1000mils
+    Components on board, 33
+count : 2
+
+Pad Paste Mask, Count
+    -99mils, 4
+    -49.016mils, 1
+    0mils, 119
+count : 3

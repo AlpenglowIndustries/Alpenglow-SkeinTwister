@@ -1,0 +1,46 @@
+Altium Designer Pick and Place Locations
+C:\Users\Sundra\Documents\Altium\Projects\SkeinTwister RevE\Project Outputs for SkeinTwister Rev E\Pick Place for ST01P01E.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       18/03/21
+Time:       11:10
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"C1","1.0","TopLayer","0603","675.000","470.000","180",""
+"C2","0.1","TopLayer","0603","675.000","420.000","180",""
+"C3","0.1","TopLayer","0603","885.000","350.000","270",""
+"C8","820","TopLayer","CAP-10MM","815.000","715.000","90",""
+"D3","DIODE, SM SIG","TopLayer","SMA","1435.000","710.000","90",""
+"J1","ISP Program","TopLayer","DF13C-6P-1.25V","312.362","664.370","270",""
+"J2","POWER","BottomLayer","CONN-JACK-2MM_-_slots_-_M3","1218.543","651.968","180",""
+"J3","KNOB","TopLayer","JST-XH-3","600.079","105.630","180",""
+"J4","FOOT PEDAL","BottomLayer","AUDIO-6.35MM-RTA","317.559","666.968","180",""
+"Q1","N","TopLayer","DFN8_3X3MM","1298.189","910.000","360","N-Channel MOSFET"
+"U1","TLV76050","TopLayer","SOT-23","790.500","352.126","180",""
+"C6","0.1","TopLayer","0603","1490.001","80.006","45",""
+"C7","0.1","TopLayer","0603","1589.999","99.994","225",""
+"C9","0.1","TopLayer","0603","1445.005","465.003","360",""
+"C5","0.1","TopLayer","0603","1086.337","386.337","45",""
+"C4","10","TopLayer","0603","969.995","319.997","180",""
+"D2","LED","TopLayer","0603+","915.000","135.000","180",""
+"D4","TVS","TopLayer","SOT-363","440.000","330.000","90",""
+"J5","SERIAL","TopLayer","DF13C-3P-1.25V","209.213","146.693","360",""
+"L1","FERRITE, 0603","TopLayer","0603","970.005","380.003","360",""
+"R1","10.0k","TopLayer","0603","1473.464","410.000","360",""
+"R2","1.00k","TopLayer","0603","916.536","190.000","0",""
+"R3","10.0k","TopLayer","0603","995.005","65.003","0",""
+"R4","DNP (100)","TopLayer","0603","360.003","339.995","270",""
+"R5","10.0k","TopLayer","0603","540.005","540.003","360",""
+"S1","DNP","TopLayer","PB-3.0X2.5-SMT","220.003","320.003","360","Switch"
+"U2","ATMEGA328P_v2","TopLayer","TQFP-32","1280.037","242.234","315",""
+"R6","100","TopLayer","0603","1275.005","800.003","360",""
+"TP1","TESTPOINT","TopLayer","TP-1.0MM","1520.000","245.000","90",""
+"TP2","TESTPOINT","TopLayer","TP-1.0MM","1625.000","185.000","90",""
+"TP3","TESTPOINT","TopLayer","TP-1.0MM","1020.000","195.000","90",""
+"TP4","TESTPOINT","TopLayer","TP-1.0MM","1055.000","110.000","90",""
+"J6","?","TopLayer","OSTTE021104","1655.000","697.795","90",""
