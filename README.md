@@ -1,6 +1,8 @@
 # Alpenglow-SkeinTwister
 The main open-source hardware repo for the Alpenglow Yarn SkeinTwister.  Start here, repo for the SkeinTwister software is [here](https://github.com/AlpenglowIndustries/SkeinTwisterCode).
 
+<img width="600" height="400" alt="IMG_9674" src="https://github.com/user-attachments/assets/c76aeb25-653d-490e-b45d-4a7b8074b73a" />
+
 Hello my friends.  As one of the final acts of Alpenglow Industries, we are open-sourcing the SkeinTwister design under a permissive CERN open hardware v2 license.  The text of the license is included in this repo, what it practically means is that as long as you attribute our original work, you can reproduce anything in this repo and even sell it.  
 
 The [Alpenglow YouTube channel](https://www.youtube.com/watch?v=4FvFv4GcJJE&list=PLGswnsgctcE1kCAfXg5c3xEA6l_XDLfXw&pp=sAgC) has videos on assembly/disassembly and repair.
