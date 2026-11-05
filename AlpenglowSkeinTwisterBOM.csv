@@ -1,0 +1,30 @@
+Type,Description,Quantity,Manufacturer,Manufacturer P/N,Supplier,Supplier P/N,Notes
+CLAMPS,"3"" C clamp, individual",2,Jet,51505,Cripe Distributing,51505,info@cripedistributing.com
+ENCLOSURE,Aluminum enclosure including custom machining *lid screws come with*,1,Alpenglow Yarn,ST03M01B,Hammond,1590P1FL,"Hammond makes the enclosures and does the custom machining on them, Neil Halliday nhalliday@hammfg.com, modshop@hammfg.com"
+ENCLOSURE BASE,"Custom routed birch plywood, 1/2"" thick",1,Alpenglow Yarn,ST03M02B,Pacific Millworks/Ryan Blackburn,ST03M02B,ryan@pacificmillworks.com
+ENCLOSURE BASE SCREWS,"#8 x 5/8"" long wood screws",4,Bolt Depot,2009,Bolt Depot,2009,
+ENCLOSURE LABEL,"7 mil thick textured polycarbonate with 2 mil thick 3M adhesive, 5.7"" x 2.91""",1,Alpenglow Yarn,ST05M01C,Nameplates For Industry,ST05M01C,
+ENCLOSURE S/N STICKERS,Custom serial number stickers,1,Alpenglow Yarn,,Lightning Labels,,
+FOOT PEDAL,"Momentary style, unterminated",1,CNTD Electric Technology Co,CFS-01,CNTD Electric Technology Co,CFS-01,see ReadMe for Foot Pedals
+FOOT PEDAL CABLE,"1/4"" right angle mono plug to 1 RCA Male, 10ft long",1,Kirlin Cable,LGI-202-10/RD,Kirlin Cable,LGI-202-10/RD,see ReadMe for Foot Pedals
+HOOK,"Custom, 1/4"" rod, 1.5"" dia opening",1,Alpenglow Yarn,ST01M01D,Apex Wire,ST01M01D,"Ryan Harmon, apexwire@apexwireproducts.com"
+KNOB,"Custom, 3D printed",1,Alpenglow Yarn,ST04M03E,3D Hubs,ST04M03E,
+KNOB CABLE,"XH 3-pos to 5-pos cable, 6"" long",1,Alpenglow Yarn,,Dirty PCBs,,see diagram in Knob Assembly folder
+KNOB POT,"10.0k trim pot, linear, conductive plastic, panel mnt, straight through-hole pins",1,TT Electronics,P160KN-0QC15B10K,TTI,P160KN-0QC15B10K,
+MOTOR,"Worm gear motor, 12V, 160 rpm, 33 kg-cm stall torque",1,Dongguan Tsiny Motor Ind Co,TS-40GZ868-49,Dongguan Tsiny Motor Ind Co,TS-40GZ868-49,see ReadMe for Motors
+MOTOR SCREWS,"M4 x 10mm long machine screws, phillips head, with nylon patch",4,McMaster-Carr,90382A267,McMaster-Carr,90382A267,
+MOTOR SHAFT COUPLER,"6.35mm to 8mm rigid clamp shaft coupler, aluminum, 2.5mm hex screws",1,CNC Automation,6.35 to 8,AliExpress,2251832140641892,https://www.aliexpress.us/item/2251832140641892.html?gatewayAdapt=glo2usa
+MOTOR SHAFT COUPLER KEY,"2.5mm hex L-key, 2.125"" x 0.75""",1,McMaster-Carr,7289A13,McMaster-Carr,7289A13,
+MOTOR SPACER,"Custom spacer for motor, laser cut out of 3mm acrylic or can be 3D printed",1,Alpenglow Yarn,ST04M01B,Alpenglow Yarn,ST04M01B,"if you have to outsource, Ponoko has OK prices on large batches of laser cut parts"
+PACKAGING BOX,"6.5"" x 9"" x 3.75"" inner dims flap mailer, corrugated 32 ECT E, no branding (min branding order 250)",1,Alpenglow Yarn,32ECTE,EcoEnclose,32ECTE,https://www.ecoenclose.com/shop/custom-shipping-boxes/
+PACKAGING PAD,"5"" X 7"" corrugated 23ECT B pad, for spacing Skeintwister & protecting connectors",1,Alpenglow Yarn,23ECTB,EcoEnclose,23ECTB,https://www.ecoenclose.com/shop/custom-shipping-boxes/
+PACKAGING QUICK START,Captain's Guide,1,,,ASAP Reprographics,,
+PACKAGING STICKERS,Black SkeinTwister sticker for box,1,,,Sticker Giant,,
+PACKAGING STICKERS,"Set of 4 round stickers - hook, arr me hook, get twisted, skeintwister",1,,,MOO,,
+PCBA,Fully populated PCBs,1,Alpenglow Yarn,ST01P01E,JLCPCB,ST01P01E,see ReadMe for PCBs
+POWER SUPPLY,"110VAC to 12VDC voltage converter, 6A, 2.5mm plug, with cable",1,Smarts Power,SMT-012-072VP,Smarts Power,SMT-012-072VP,see ReadMe for Power Supplies
+POWER SUPPLY CORD,"USA and Japan style NEMA 1-15P to C7 non-polarized 2-slot power cord, 18AWG, 6 ft long",1,SF Cable,P7NB-06,SF Cable,P7NB-06,https://www.sfcable.com/
+POWER SUPPLY CORD,Euro & South America power cord,,SF Cable,P7NB-EU,SF Cable,P7NB-EU,https://www.sfcable.com/
+POWER SUPPLY CORD,UK power cord,,SF Cable,P-ZIP-06B-UK,SF Cable,P-ZIP-06B-UK,https://www.sfcable.com/
+POWER SUPPLY CORD,AUS power cord,,SF Cable,P-ZIP-06B-AUS-I,SF Cable,P-ZIP-06B-AUS-I,https://www.sfcable.com/
+,,,,,,,
